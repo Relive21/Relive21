@@ -1,1 +1,23 @@
-![Alt Text](https://media1.giphy.com/media/17bk69vyJWl8hw3tzJ/giphy.gif?cid=ecf05e47eoercie7tlnxieabqawg1d0rrhab3pmc0ea2j21v&rid=giphy.gif&ct=g)
+Hi There ✋
+
+
+
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
+
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Relive21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Relive21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Relive21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Relive21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=serenityeirlys&icon=0&color=0)](https://visitcount.itsvg.in)
