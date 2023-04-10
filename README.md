@@ -17,7 +17,7 @@
 
 [facebook]: https://www.facebook.com/Taoss.art/
 [instagram]: https://www.instagram.com/taos.nee/
-[twitter]: https://twitter.com/your_username
+[twitter]: https://twitter.com/Senpaiarti
 
 
 # 📊GitHub Stats :
