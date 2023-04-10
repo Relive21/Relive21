@@ -1,6 +1,6 @@
 # Hi, i'm soaT
 
-e
+
 
 ## Discord
 
