@@ -7,7 +7,18 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/555392494347485197)](https://discord.com/users/555392494347485197)
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
+[<img align="left" alt="facebook" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
+[<img align="left" alt="instagram" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />][twitter]
+
+
+<br />
+<br />
+
+[facebook]: https://www.facebook.com/Taoss.art/
+[instagram]: https://www.instagram.com/taos.nee/
+[twitter]: https://twitter.com/your_username
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Relive21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
