@@ -1,6 +1,4 @@
-Ey zo man
-tôi chả biết j về code đâu
-vì tôi là 1 artist mà , mong mọi người xem như mình là ng bình thường nhé thanks
+# Hi, i'm soaT
 
 
 
